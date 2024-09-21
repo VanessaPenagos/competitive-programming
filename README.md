@@ -1,1 +1,1 @@
-
+problems from some platforms
